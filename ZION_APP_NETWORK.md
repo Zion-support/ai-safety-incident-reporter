@@ -15,6 +15,10 @@ This app is part of the **Zion Tech Group App Network** (800+ AI-powered busines
 - [AI Compliance Guardian](https://ziontechgroup.com/ai-compliance-guardian/)
 - [Incident Comms Writer](https://ziontechgroup.com/incident-comms-writer/)
 
+## 🌟 Security & Compliance Suite (GitHub)
+- [AI Compliance Auditor](https://github.com/Zion-support/ai-compliance-auditor) · [AI Phishing Simulator](https://github.com/Zion-support/ai-phishing-simulator) · [Prompt Injection Playground](https://github.com/Zion-support/prompt-injection-playground) · [Zion AI Threat Brief](https://github.com/Zion-support/zion-ai-threat-brief) · [AI Governance Dashboard](https://github.com/Zion-support/ai-governance-dashboard)
+- Suite spotlight: [security-compliance-suite.md](https://github.com/Zion-support/zion-network/blob/main/spotlights/security-compliance-suite.md)
+
 ## About this app
 **AI Safety Incident Reporter** — live at https://ziontechgroup.com/ai-safety-incident-reporter/ — source: https://github.com/Zion-support/ai-safety-incident-reporter
 
